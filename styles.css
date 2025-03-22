@@ -1,10 +1,10 @@
 /* Dark blue/black theme for Personal Blog */
 :root {
     --main-bg-color: white;
-    --secondary-bg-color: #121f3d;
-    --accent-color: #4361ee;
-    --text-color: #f8f9fa;
-    --secondary-text-color: #ced4da;
+    --secondary-bg-color: cream;
+    --accent-color: blue;
+    --text-color: black;
+    --secondary-text-color: gray;
 }
 
 * {
